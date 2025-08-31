@@ -11,8 +11,8 @@ __pycache__/
 *.db
 *.sqlite3
 db.sqlite3
-media/
-staticfiles/
+media/  # ideally i should remove due to the heavinees ,
+todo/static/ # ideally i should remove due to the heavinees ,
 
 # Virtual Environment
 venv/
